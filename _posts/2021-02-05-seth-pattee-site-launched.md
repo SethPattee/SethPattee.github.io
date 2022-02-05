@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seth Pattee,the fairly competent human, Launches Site"
+title: "Seth Pattee, the fairly competent human, Launches Site"
 date: 2021-02-05
 ---
 
